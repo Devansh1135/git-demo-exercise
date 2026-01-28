@@ -1,1 +1,1 @@
-commit 1 in feature4
+commit 2 in feature4
