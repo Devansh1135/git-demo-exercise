@@ -1,2 +1,2 @@
 this is readme
-this change was made in feature3
+this is a change made in feature3
